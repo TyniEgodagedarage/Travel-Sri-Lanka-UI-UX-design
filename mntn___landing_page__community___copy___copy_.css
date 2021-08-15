@@ -1,0 +1,289 @@
+/*
+	@name mntn___landing_page__community___copy___copy_
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1876px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__iphone_11_pro_max___1 {
+	top: 0px;
+	left: 0px;
+	width: 1876px;
+	height: 4600px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 1876px;
+	height: 1502px;
+	background:rgba(196,196,196,1);
+}
+
+
+#download_1 {
+	top: 0px;
+	left: 0px;
+	width: 1876px;
+	height: 1502px;
+}
+
+
+#travel_sri_lanka_be_prepared_for_the_amaizing_journy {
+	top: 316px;
+	left: 421px;
+	width: 1052px;
+	height: 497px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 88px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 100px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_4 {
+	top: 1502px;
+	left: 0px;
+	width: 1876px;
+	height: 3098px;
+	background:rgba(11,29,38,1);
+}
+
+
+#images_1 {
+	top: 1502px;
+	left: 980px;
+	width: 722px;
+	height: 698px;
+}
+
+
+#beach_side {
+	top: 1715px;
+	left: 224px;
+	width: 664px;
+	height: 143px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 88px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 100px;
+	color:#FFFFFF;
+}
+
+
+#you_can_get_warm_beach_experince_at_sri_lanka_beach_side {
+	top: 1827px;
+	left: 224px;
+	width: 716px;
+	height: 362px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+#images_2 {
+	top: 2392px;
+	left: 120px;
+	width: 719px;
+	height: 712px;
+}
+
+
+#historical_places {
+	top: 2584px;
+	left: 938px;
+	width: 739px;
+	height: 209px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 88px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	padding-top: 38px;
+	margin-top: -38px;
+	color:#FFFFFF;
+}
+
+
+#places_with_historical_value_you_can_walk_around_ancient_kindoms {
+	top: 2703px;
+	left: 928px;
+	width: 646px;
+	height: 221px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+#images_3 {
+	top: 3140px;
+	left: 980px;
+	width: 682px;
+	height: 680px;
+}
+
+
+#up_country {
+	top: 3333px;
+	left: 164px;
+	width: 677px;
+	height: 209px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 88px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	padding-top: 38px;
+	margin-top: -38px;
+	color:#FFFFFF;
+}
+
+
+#you_can_get_exiting_experince_withe_the_cold_wather {
+	top: 3441px;
+	left: 164px;
+	width: 578px;
+	height: 255px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+#read_more__ {
+	top: 2015px;
+	left: 224px;
+	width: 494px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+#read_more___ek1 {
+	top: 2867px;
+	left: 938px;
+	width: 530px;
+	height: 80px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+#read_more___ek2 {
+	top: 3623px;
+	left: 169px;
+	width: 453px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+#about_us_we_are_gloally_recognizedtravel_company_situated_in_sri_lanka_ {
+	top: 4069px;
+	left: 126px;
+	width: 585px;
+	height: 328px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#EFC65D;
+}
+
+
+#read_more___ek3 {
+	top: 4363px;
+	left: 124px;
+	width: 365px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#E0B853;
+}
+
+
+#contact_us_email_face_book_twitter {
+	top: 4053px;
+	left: 1389px;
+	width: 340px;
+	height: 495px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#DEAF54;
+}
+
+
+#more___ {
+	top: 3909px;
+	left: 743px;
+	width: 437px;
+	height: 121px;
+	overflow: hidden;
+	font-family: Garamond;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
